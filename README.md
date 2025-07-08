@@ -23,8 +23,8 @@ This project develops a Machine Learning model to classify resumes into "Good Fi
   - Python, Pandas, NumPy, Scikit-learn
   - Jupyter Notebook for development and testing
 - **Graphical User Interface**
-    -Developed an interactive GUI using Gradio to enable user-friendly resume and job description input for real-time classification.
-    -Allows users to upload resume and job description text files, view model predictions, and access confidence scores through a web-based interface.
+  - Developed an interactive GUI using Gradio to enable user-friendly resume and job description input for real-time classification.
+  - Allows users to upload resume and job description text files, view model predictions, and access confidence scores through a web-based interface.
 
 ## License
 MIT License
